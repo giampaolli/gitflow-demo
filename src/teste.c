@@ -4,5 +4,6 @@ int main(void) {
     printf("oi");
     printf("oi");
     printf("alarme de incendio");
+    printf("alarme de incendio");
     return 0;
 }
